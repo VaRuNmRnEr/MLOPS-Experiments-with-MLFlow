@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/977671152769281835/9eeca389c577445c8633c6cae7c4ac81/artifacts
+end_time: 1751738089421
+entry_point_name: ''
+experiment_id: '977671152769281835'
+lifecycle_stage: active
+run_id: 9eeca389c577445c8633c6cae7c4ac81
+run_name: bemused-ray-518
+run_uuid: 9eeca389c577445c8633c6cae7c4ac81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751738089333
+status: 3
+tags: []
+user_id: HP

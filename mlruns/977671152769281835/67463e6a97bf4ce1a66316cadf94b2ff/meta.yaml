@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/977671152769281835/67463e6a97bf4ce1a66316cadf94b2ff/artifacts
+end_time: 1751738090060
+entry_point_name: ''
+experiment_id: '977671152769281835'
+lifecycle_stage: active
+run_id: 67463e6a97bf4ce1a66316cadf94b2ff
+run_name: gentle-shad-807
+run_uuid: 67463e6a97bf4ce1a66316cadf94b2ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751738089982
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/977671152769281835/ecabbe855b274b2ea0f84281d5d6cac3/artifacts
+end_time: 1751738090315
+entry_point_name: ''
+experiment_id: '977671152769281835'
+lifecycle_stage: active
+run_id: ecabbe855b274b2ea0f84281d5d6cac3
+run_name: fun-rat-958
+run_uuid: ecabbe855b274b2ea0f84281d5d6cac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751738090245
+status: 3
+tags: []
+user_id: HP

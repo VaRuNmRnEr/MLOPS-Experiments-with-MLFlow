@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/977671152769281835/e125c9c3fd79484e8403a5ea69c84d6f/artifacts
+end_time: 1751738089577
+entry_point_name: ''
+experiment_id: '977671152769281835'
+lifecycle_stage: active
+run_id: e125c9c3fd79484e8403a5ea69c84d6f
+run_name: mysterious-sow-443
+run_uuid: e125c9c3fd79484e8403a5ea69c84d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751738089431
+status: 3
+tags: []
+user_id: HP

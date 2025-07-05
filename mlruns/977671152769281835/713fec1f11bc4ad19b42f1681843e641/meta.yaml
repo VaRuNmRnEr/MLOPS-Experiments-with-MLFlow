@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/977671152769281835/713fec1f11bc4ad19b42f1681843e641/artifacts
+end_time: 1751738089966
+entry_point_name: ''
+experiment_id: '977671152769281835'
+lifecycle_stage: active
+run_id: 713fec1f11bc4ad19b42f1681843e641
+run_name: suave-ant-401
+run_uuid: 713fec1f11bc4ad19b42f1681843e641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751738089878
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/977671152769281835/6d24892bc41448a4b73818116a4faf9c/artifacts
+end_time: 1751738090234
+entry_point_name: ''
+experiment_id: '977671152769281835'
+lifecycle_stage: active
+run_id: 6d24892bc41448a4b73818116a4faf9c
+run_name: stylish-crow-988
+run_uuid: 6d24892bc41448a4b73818116a4faf9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751738090152
+status: 3
+tags: []
+user_id: HP

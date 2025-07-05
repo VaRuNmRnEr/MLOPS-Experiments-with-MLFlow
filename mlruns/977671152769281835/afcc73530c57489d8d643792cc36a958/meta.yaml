@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/977671152769281835/afcc73530c57489d8d643792cc36a958/artifacts
+end_time: 1751738089788
+entry_point_name: ''
+experiment_id: '977671152769281835'
+lifecycle_stage: active
+run_id: afcc73530c57489d8d643792cc36a958
+run_name: masked-mouse-31
+run_uuid: afcc73530c57489d8d643792cc36a958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751738089679
+status: 3
+tags: []
+user_id: HP

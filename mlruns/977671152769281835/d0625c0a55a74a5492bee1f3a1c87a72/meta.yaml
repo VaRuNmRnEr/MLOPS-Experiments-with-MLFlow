@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/977671152769281835/d0625c0a55a74a5492bee1f3a1c87a72/artifacts
+end_time: 1751738099732
+entry_point_name: ''
+experiment_id: '977671152769281835'
+lifecycle_stage: active
+run_id: d0625c0a55a74a5492bee1f3a1c87a72
+run_name: industrious-dog-245
+run_uuid: d0625c0a55a74a5492bee1f3a1c87a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751738081502
+status: 3
+tags: []
+user_id: HP

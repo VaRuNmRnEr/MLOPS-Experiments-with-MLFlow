@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/959479911550461181/3d6e0e827e55468c89e467e370dcceb8/artifacts
+end_time: 1751658576739
+entry_point_name: ''
+experiment_id: '959479911550461181'
+lifecycle_stage: active
+run_id: 3d6e0e827e55468c89e467e370dcceb8
+run_name: rogue-boar-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751658576647
+status: 3
+tags: []
+user_id: HP

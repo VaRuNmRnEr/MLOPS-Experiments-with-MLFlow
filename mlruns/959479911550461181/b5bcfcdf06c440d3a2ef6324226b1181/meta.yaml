@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/959479911550461181/b5bcfcdf06c440d3a2ef6324226b1181/artifacts
+end_time: 1751658464190
+entry_point_name: ''
+experiment_id: '959479911550461181'
+lifecycle_stage: active
+run_id: b5bcfcdf06c440d3a2ef6324226b1181
+run_name: tasteful-panda-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751658463972
+status: 3
+tags: []
+user_id: HP
